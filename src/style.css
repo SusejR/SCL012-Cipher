@@ -1,1 +1,79 @@
-/* Acá va tu código */
+body {
+    background:url(img/edificio1.jpeg);
+    
+    
+}
+#logo {
+    width: 60%;
+}
+#cabecera_documento {
+    margin-left: 50%;
+    font-size: 20px;
+    
+}
+.cabecera {
+    border: 2px solid rgb(77, 77, 82);
+
+}
+
+#explicacion {
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    width: 30%;
+    float: left;
+    font-family: cursive;
+    font-size: 20px
+
+}
+#caesar{
+    margin-top: 10%; 
+}
+#txtEncode {
+    margin-right: 8%;
+}
+#botones {
+    margin-left:36%;
+}
+.boton{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    width: 80px;
+    height: 30px;
+
+}
+.boton:hover {
+    background-color:rgb(141, 141, 146); 
+
+}
+#btnDecode {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+#btnSave {
+    margin-right: 12%;
+}
+.form {
+    border: 2px solid rgb(77, 77, 82);
+}
+
+.footer {
+    background-color: rgb(197, 191, 191, 0.5);
+    border-radius: 4%;
+    padding: 2%;
+    
+    
+}
+#derechos {
+    font-size: 20px;
+    margin-right: 70%;
+    opacity: 1;
+}
+#condiciones {
+    font-size: 20px;
+    float: right;
+    margin-left: 70%;
+    margin-top: -75px;
+    opacity: 1;
+    
+}

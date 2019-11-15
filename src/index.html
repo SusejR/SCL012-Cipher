@@ -6,9 +6,49 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+    <img src="img/logo.png" alt="logo"/>
+    
+    <div id="cabecera_documento">
+        <label><strong>Nombre del Cliente</strong></label>
+        <input type="text" class="cabecera" id="nombre" placeholder="Ingrese Nombre del Cliente"> <br>
+        <br>
+        <label><strong>N° de Documento</strong></label>
+        <input type="text" class="cabecera" id="position" placeholder="Ingrese Numero de Desplazamiento">
     </div>
+    <br>
+    <br>
+    <br>
+    <div id="explicacion">
+        <p><strong>  Este Sistema está basado en el cifrado Cesar o cifrado por desplazamiento, en el cual cada letra del texto sin formato se reemplaza por una letra con un número fijo de posiciones en el alfabeto. </strong></p>
+    </div>
+
+    <div id="formularios">
+        <textarea name="txtEncode" class="form" id="txtEncode" cols="30" rows="10"></textarea>
+        <textarea name="txtDecode" class="form" id="txtDecode" cols="30" rows="10"></textarea>
+        <br>
+        <br>
+    </div>
+    <div id="botones">
+            <input type="button" class="boton" id="btnEncode" value="Codificar">
+            <input type="button" class="boton" id="btnDecode" value="Decodificar">
+            <input type="button" class="boton" id="btnSave" value="Guardar">
+            <input type="button" class="boton" id="btnClear" value="Limpiar">
+    </div>
+    <br>
+    <br>
+    <br>
+
+
+    <div class="footer">
+        <p id="derechos"><strong>Rodriguez Corporation &copy; 2019-11</strong></p>
+      <div id="condiciones">
+        <li><strong>Ayuda</strong></li>
+        <li><strong>Terminos y condiciones</strong></li>
+        <li><strong>Politica de Privacidad</strong></li>
+      </div>
+      
+    </div>
+    
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>
