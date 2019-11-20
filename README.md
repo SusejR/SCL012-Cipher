@@ -29,7 +29,7 @@ Debido a la problematica de riesgo de fuga de información que se presentan en a
 
 ## DESARROLLO DEL PRODUCTO 💡
 Prototipo de baja fidelidad
-<img src="img/prototipo1.png" alt="prototipo1"/>
+![prototipo1](./src/img/prototipo1.png "prototipo1")
 
 Despues de haber elaborado el prototipo a mano alzada, inicie el proceso de elaboración del prototipo de alta fidelidad utilizando una herramienta llamada balsamiq. 
 <img src="img/prototipo2.png" alt="prototipo2"/>
