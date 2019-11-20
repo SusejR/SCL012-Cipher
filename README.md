@@ -31,9 +31,21 @@ Debido a la problematica de riesgo de fuga de información que se presentan en a
 Prototipo de baja fidelidad
 ![prototipo1](./src/img/prototipo1.png "prototipo1")
 
-Despues de haber elaborado el prototipo a mano alzada, inicie el proceso de elaboración del prototipo de alta fidelidad utilizando una herramienta llamada balsamiq. 
-<img src="img/prototipo2.png" alt="prototipo2"/>
-Se realizaron test de usabilidad y se detecto que los usuarios tenian dificultad para ver las letras debido a su pequeño tamaño, por tal motivo se procedio a cambiar el tamaño de la fuente y se volvió a realizar el test de usabilidad.
+Despues de haber elaborado el prototipo a mano alzada, inicie el proceso de elaboración del prototipo de media utilizando una herramienta llamada balsamiq. 
+
+Prototipo de Media
+![prototipo2](./src/img/prototipo2.png "prototipo2")
+
+Una vez elaborado el primer prototipo digital decidi utilizar la herramienta FIGMA para inicar la elaboración del prototipo de alta fidelidad con interacción para simular la interacción de mi producto.
+
+Prototipo de Alta Fidelidad
+![prototipo3](./src/img/prototipo3.png "prototipo3")
+
+[enlace al prototipo de alta fidelidad con interacción](https://www.figma.com/proto/xFLQ4y931Xp9sj1ZN8ts5R/prototipo3?node-id=5%3A3&scaling=scale-down)
+
+
+
+
 
 
 
